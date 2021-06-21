@@ -1,17 +1,7 @@
-# Citibike Analysis
+# Bike Share Analaysis - Citi Bike NYC
 
-Seonghee Lee, 
-Chelsea Choi,
-Nicholas Rahardja
+This project aims to answer the question how well is citibike representing NYC demographics, by building a predictive time series models for Citibike usage from each NYC station based on over 50 million trips using Pandas and Sklearn, identifying neighborhoods that are likely to be supply constrained over the next five years. 
 
-This project aims to answer the question How is citibike representing NYC demographics? (in 2017).
-
-# Team Github
-https://github.com/shljessie/citibike-nyc
-# Team Raw Data Google Drive
-https://drive.google.com/drive/folders/197_d1BwPHXmVuyKA6I7UEyEw4Nqo8dAk
-# Team Final Data Google Drive
-https://drive.google.com/drive/folders/1glgD5ly1ABej2GDXzc-iUMjpu4HkItwa?usp=sharing
 
 1. Context of Work¶
 
